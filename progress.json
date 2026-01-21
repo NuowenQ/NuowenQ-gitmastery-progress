@@ -140,5 +140,14 @@
       "Answer for In January, who were in the Tuesday duty roster? Remove/add extra rows where appropriate. is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1769005496.253972,
+    "completed_at": 1769005499.274692,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
   }
 ]
